@@ -1,0 +1,10 @@
+( ) ;
++ - * / = > < >= <= == ++ --
+if then else
+id1
+id2
+id1
+123 456
+"hi"
+// single comment
+/* block comment */
